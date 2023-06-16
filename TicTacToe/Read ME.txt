@@ -1,0 +1,50 @@
+This the Tic Tac Toe game developed in C#
+this game is designed by keeping in view the concepts of OOPS
+objecy oriented programming 
+Following concepts are used in this code
+
+ Classes and objects
+ Abstraction
+ Encapsulation
+ Inheritance
+ Polymorphism
+ method overloading
+ method overriding.
+ string manipulation 
+ A graphical user interface must be implemented
+
+
+
+
+*******************************************************************************************************
+To Run the Game 
+1. Open the Tic Tac Toe Folder 
+2. Open the bin folder
+3. Open debug folder 
+4. Run the TicTacToe application file on the top of the folder debug
+
+
+The game will run 
+*******************************************************************************************************
+
+How to play 
+1. The rules are the same as we used to play tictactoe game 
+2. when you have your sign in the line 
+3. you will win and the winner will be automatically shown on the screen
+4. click on ok
+5. if want to play more with the same player click playagain 
+6. the score will be added on the side where your name is written
+7. if you want that create a new game with the new player click on new game 
+8. The previous game data will be reseted 
+
+********************************************************************************************************
+To see the code 
+1. Open the folder TicTacToe
+2. OPen form.cs file
+3. open it on any text editor
+
+****************************************************************************************************
+
+The comments are already added in the code so that it is easy to understand the fuctionalities
+That are implemented 
+
